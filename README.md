@@ -6,7 +6,7 @@ Meu nome é Rafael Biato de Azevedo.
 
 Linkedin: https://www.linkedin.com/in/rafael-azevedo-530889195/
 
-Link para meu Portifólio: https://rafaelbiatoazevedo.github.io/Portif%C3%B3lio/
+Portifólio: https://rafaelbiatoazevedo.github.io/Portif%C3%B3lio/
 
 Meus projetos:
 
