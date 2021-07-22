@@ -1,8 +1,9 @@
 Meu nome é Rafael Biato de Azevedo.
 
-- 🔭 Estou a procura de emprego.
+- 💼 Trabalhando em RS Solutions.
 - 🌱 Estudo desenvolvimento Web Full Stack na Trybe.
 - 📫 rafaelazevedo321@gmail.com
+- 📫 rafael.azevedo@rssolutions.com.br
 
 Linkedin: https://www.linkedin.com/in/rafael-azevedo-530889195/
 
