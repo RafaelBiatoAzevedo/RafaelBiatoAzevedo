@@ -1,13 +1,15 @@
 Meu nome é Rafael Biato de Azevedo.
 
-- 💼 Trabalhando em RS Solutions.
-- 🌱 Estudo desenvolvimento Web Full Stack na Trybe.
 - 📫 rafaelazevedo321@gmail.com
-- 📫 rafael.azevedo@rssolutions.com.br
+
+AZEVEDO DIGITAL - Soluções personalizadas em Aplicativos e Sites.
+- 📫 azevedodigital321@gmail.com
 
 Linkedin: https://www.linkedin.com/in/rafael-azevedo-530889195/
 
-Portifólio: https://portifoliorafaelazevedo.netlify.app/
+Intagram: https://www.instagram.com/rafael_azevedo_55/?hl=pt-br
+
+Portifólio: https://portifolio-rafael-azevedo.netlify.app/
 
 Meus projetos:
 
