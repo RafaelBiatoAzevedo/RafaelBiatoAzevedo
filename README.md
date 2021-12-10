@@ -13,6 +13,8 @@ Portifólio: https://portifolio-rafael-azevedo.netlify.app/
 
 Meus projetos:
 
-- Site Brothers: https://rafaelbiatoazevedo.github.io/SiteBrothers/
+- Site World Star Wras: https://world-starwars.netlify.app/
+
+- Site Brothers: https://brothers-reparos-geral.netlify.app/
 
 - Site RafaExpress: https://rafaelbiatoazevedo.github.io/Site-Rafa-Express/
