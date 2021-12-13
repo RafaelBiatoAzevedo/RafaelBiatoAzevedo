@@ -7,7 +7,7 @@ AZEVEDO DIGITAL - Soluções personalizadas em Aplicativos e Sites.
 
 Linkedin: https://www.linkedin.com/in/rafael-azevedo-530889195/
 
-Intagram: https://www.instagram.com/rafael_azevedo_55/?hl=pt-br
+Instagram: https://www.instagram.com/rafael_azevedo_55/?hl=pt-br
 
 Portifólio: https://portifolio-rafael-azevedo.netlify.app/
 
