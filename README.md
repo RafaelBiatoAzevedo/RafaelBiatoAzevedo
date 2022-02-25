@@ -19,7 +19,7 @@ Olá, meu nome é Rafael Azevedo sou desenvolvedor full stack.
 
 - 📫 azevedodigital321@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbiatoazevedo)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbiatoazevedo)](https://github.com/anuraghazra/github-readme-stats)
 
