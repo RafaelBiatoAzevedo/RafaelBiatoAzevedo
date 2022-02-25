@@ -19,11 +19,6 @@ Olá, meu nome é Rafael Azevedo sou desenvolvedor full stack.
 
 - 📫 azevedodigital321@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbiatoazevedo)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbiatoazevedo)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ### Projetos:
 
@@ -34,3 +29,10 @@ Olá, meu nome é Rafael Azevedo sou desenvolvedor full stack.
 - Site Trivia Game : https://playtriviagame.netlify.app/
 
 - Site RafaExpress: https://rafaelbiatoazevedo.github.io/Site-Rafa-Express/
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbiatoazevedo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbiatoazevedo)](https://github.com/anuraghazra/github-readme-stats)
+
