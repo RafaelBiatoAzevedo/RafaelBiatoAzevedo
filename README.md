@@ -1,4 +1,9 @@
-Meu nome é Rafael Biato de Azevedo.
+Olá, meu nome é Rafael Azevedo sou desenvolvedor full stack.
+
+- Meus hobbies são jogos online e atividades fisicas;
+- Estou sempre a procura de novos conhecimentos para evoluir na minha carreira de desenvolvedor;
+
+### Contatos
 
 - 📫 rafaelazevedo321@gmail.com
 
@@ -11,7 +16,7 @@ Instagram: https://www.instagram.com/rafael_azevedo_55/?hl=pt-br
 
 Portifólio: https://portifoliorafaelazevedo.netlify.app/
 
-Meus projetos:
+### Meus projetos:
 
 - Site World Star Wras: https://worldstarwars.netlify.app/
 
