@@ -20,7 +20,7 @@ Olá, meu nome é Rafael Azevedo sou desenvolvedor full stack.
 - 📫 azevedodigital321@gmail.com
 
 
-### Projetos:
+### Projetos in Trybe course:
 
 - Site World Star Wras: https://worldstarwars.netlify.app/
 
