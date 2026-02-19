@@ -74,7 +74,10 @@ azevedodigital321@gmail.com
 🌎 Portfólio: https://portfoliorafaelazevedo.netlify.app/
 
 📊 Estatísticas GitHub
+
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelbiatoazevedo&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelbiatoazevedo&show_icons=true&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbiatoazevedo&layout=compact&theme=tokyonight"/>
 </div>
