@@ -76,12 +76,7 @@ azevedodigital321@gmail.com
 📊 Estatísticas GitHub
 
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelbiatoazevedo&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelbiatoazevedo&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelbiatoazevedo&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbiatoazevedo&layout=compact&theme=tokyonight"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rafaelbiatoazevedo=anuraghazra&show_icons=true&theme=radical)
 
 🎯 Objetivo
 
