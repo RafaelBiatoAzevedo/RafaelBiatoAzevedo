@@ -75,8 +75,9 @@ azevedodigital321@gmail.com
 
 📊 Estatísticas GitHub
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rafaelbiatoazevedo=anuraghazra&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=rafaelbiatoazevedo&show_icons=true&theme=tokyonight" />
+</div>
 
 🎯 Objetivo
 
