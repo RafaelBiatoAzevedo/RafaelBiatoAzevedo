@@ -113,15 +113,18 @@ Sou fundador da **Azevedo Digital**, iniciativa dedicada ao desenvolvimento de s
 
 ---
 
+
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelbiatoazevedo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbiatoazevedo&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rafaelbiatoazevedo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rafaelbiatoazevedo&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rafaelbiatoazevedo&theme=tokyonight&hide_border=true)
 
----
+</div>
 
 ## 🌎 Vamos nos conectar?
 
